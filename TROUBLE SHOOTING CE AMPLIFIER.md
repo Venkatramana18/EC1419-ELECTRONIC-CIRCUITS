@@ -11,5 +11,6 @@
 ![WhatsApp Image 2025-11-26 at 10 49 47_a0b6d365](https://github.com/user-attachments/assets/d0145e9f-75c8-41ab-802c-2c825beb9a19)
 
 ## Semilog Graph
+<img width="1280" height="944" alt="image" src="https://github.com/user-attachments/assets/b4fa2987-a079-4747-9d0a-b77fb1c64a3d" />
 
 ![WhatsApp Image 2025-11-26 at 10 51 55_cca094c6](https://github.com/user-attachments/assets/5d036698-af6e-473a-b376-dc038a9c0b6d)
